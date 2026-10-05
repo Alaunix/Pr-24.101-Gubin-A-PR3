@@ -21,7 +21,7 @@ class MainActivity : ComponentActivity() {
             PR3Theme {
                 Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
                     Greeting(
-                        name = "Студент 2",
+                        name = "Тест 3",
                         modifier = Modifier.padding(innerPadding)
                     )
                 }
